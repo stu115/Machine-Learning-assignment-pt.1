@@ -1,2 +1,2 @@
 # Machine-Learning-assignment-pt.1
-Doing algorithms on sets of data
+Doing algorithms on sets of data. There's the graphs, bar charts with tables of all that. Codes are still being written...
